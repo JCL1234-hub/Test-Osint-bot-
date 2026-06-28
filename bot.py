@@ -8,11 +8,11 @@ import os
 # =========================
 # CONFIG
 # =========================
-BOT_TOKEN = "8744112471:AAEfdBHyA9HxSee6nSln1TYuD3h3_C60Blg"
+BOT_TOKEN = "8678433219:AAH4qH3s2X3g03b00aBl27i3Td1yV0rsTBA"
 API_URL = f"https://api.telegram.org/bot{BOT_TOKEN}"
 # The External API for lookups
 EXTERNAL_API = "https://osint-api.alphamovies.workers.dev/api/numinfo"
-ADMIN_ID = 7189814021
+ADMIN_ID = 8368189873
 
 user_states = {}
 banned_users = set()
